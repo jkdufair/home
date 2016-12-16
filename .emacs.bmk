@@ -1,0 +1,30 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("Downloads"
+ (filename . "~/Downloads/")
+ (front-context-string . "$RECYCLE.BIN\n  d")
+ (rear-context-string . "02 Mar 11  2016 ")
+ (position . 136))
+("Forecast.Api"
+ (filename . "~/dev/Work/Forecast.Api/")
+ (front-context-string . ".git\n  drwxr-xr-")
+ (rear-context-string . "48 Nov 29 22:32 ")
+ (position . 244))
+("Forecast.Web"
+ (filename . "~/dev/Work/Forecast.Web/")
+ (front-context-string . ".git\n  drwxr-xr-")
+ (rear-context-string . "46 Nov 29 22:27 ")
+ (position . 244))
+("Org"
+ (filename . "~/Documents/Org/")
+ (front-context-string)
+ (rear-context-string . "Nov 30 09:30 ..\n")
+ (position . 184))
+(".emacs"
+ (filename . "~/.emacs")
+ (front-context-string . ";;; package --- ")
+ (rear-context-string)
+ (position . 1))
+)
